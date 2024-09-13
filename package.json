@@ -1,0 +1,31 @@
+{
+  "name": "xasos-bot",
+  "version": "1.0.0",
+  "description": "bot running xasos discord server",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-mcstatus": "^1.2.1",
+    "xasos-bot": "file:"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Fries-J/GeneralPurpose-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bots",
+    "discordjs"
+  ],
+  "author": "john-fries-j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Fries-J/GeneralPurpose-discord-bot/issues"
+  },
+  "homepage": "https://github.com/John-Fries-J/GeneralPurpose-discord-bot#readme"
+}
