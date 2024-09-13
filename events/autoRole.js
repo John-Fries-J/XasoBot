@@ -13,5 +13,6 @@ module.exports = {
         }
         member.roles.add(role)
         channel.send(`WELCOME ${member} to **${guild.name}**! You are the ${guild.memberCount}th member!`);
+        member.send(`WELCOME ${member} to **${guild.name}**! You are the ${guild.memberCount}th member!`);
     },
 };
